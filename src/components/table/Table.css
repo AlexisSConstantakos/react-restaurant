@@ -1,0 +1,28 @@
+table {
+    border-style: solid;
+    border-radius: 2px;
+    border-color: #DCDCDC;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  tr, td, th {
+    border-style: solid;
+    border-radius: 2px;
+    border-color: #DCDCDC;
+  }
+
+  th {
+    background-color: #DCDCDC;
+    color: black;
+  }
+  
+  td {
+    color: DarkGrey;
+  }
+
+  .title {
+    color: DarkGrey;
+    font-family: cursive;
+    font-size: 20px;
+  }

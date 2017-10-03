@@ -1,0 +1,12 @@
+/* #carousel-example-generic {
+    padding: 0;
+
+} */
+
+.carousel-inner {
+    /* height: 750px; */
+}
+
+.carousel-inner .item img {
+    margin: auto;
+}

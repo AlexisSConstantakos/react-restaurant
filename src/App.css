@@ -1,0 +1,28 @@
+#eat {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* flex-flow: wrap; */
+  text-align: center;
+}
+
+#Surf {
+  background-color: #B0E0E6;
+  box-sizing: border-box;
+  border: 1px solid red
+}
+  
+#Portsmouth {
+  background-color: #874C62;
+}
+
+#Wharf {
+  background-color: #FFFACD;
+}
+
+#Pocos {
+  background-color: #66CDAA;
+}
+
+
+
